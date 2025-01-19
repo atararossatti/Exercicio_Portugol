@@ -51,7 +51,7 @@ Média:
 
 <table width="40%"> 
     <tr>
-        <td width="10%"><img src="https://cdn-icons-png.flaticon.com/512/455/455875.png" title="source: imgur.com" width="30%"/></td>
+        <td width="10%"><img src="https://cdn-icons-png.flaticon.com/512/455/455875.png" title="source: imgur.com" width="60%"/></td>
         <td width="90%"><a>Observe que o cálculo da média foi arredondado. O Portugol ao trabalhar com números inteiros arredonda o resultado das operações matemáticas automaticamente.</a></td>
     </tr>
 </table>
